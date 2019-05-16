@@ -1,0 +1,26 @@
+
+Class
+
+Classroom
+
+
+Attributes
+
+TotalCapacity (integer)
+CurrentCapacity (integer)
+SizeOfRoom (float)
+ShapeOfRoom (string)
+NumberOfDesks (integer)
+NumberOfStudents (integer)
+Decorations (array)
+NumberOfWindows (integer)
+FireExtinguisher (boolean)
+CurrentYear (integer)
+YearBuilt (integer)
+
+Methods
+
+RemainingCapacity (TotalCapacity - CurrentCapacity) (It tells you the remaining number of people that can fit in the room)
+RemainingDesks (NumberOfDesks - NumberOfStudents) (It tells you the remaining desks after the students)
+PercentageOfCurrentCapacity (CurrentCapacity / TotalCapacity) (It gives you the percentage of the people using the room from the total capacity)
+AgeOfClassroom (CurrentYear - YearBuilt) (It tells you how old the classroom is)
