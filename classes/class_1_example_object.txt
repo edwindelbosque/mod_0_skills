@@ -1,0 +1,26 @@
+
+Class
+
+classroom23
+
+
+Attributes
+
+40
+29
+8.3
+"Rectangle"
+25
+22
+["bookshelves", "posters", "plants"]
+3
+True
+2019
+2002
+
+Methods
+
+11
+3
+72.5
+17
