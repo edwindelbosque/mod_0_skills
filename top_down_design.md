@@ -1,0 +1,53 @@
+* How to become a student at Turing
+
+- 1. Apply
+- 	1.1 Go to turing website
+-		1.1.1 Open browser
+-		1.1.2 Go to turing.io
+-		1.1.3 Click "Apply to Turing" link
+-	1.2 Fill out application
+-		1.2.1 Get your resume
+-		1.2.2 Fill out personal information
+-	1.3 Do the logic test
+-		1.3.1 Get paper and pen
+-		1.3.2 Start the logic quiz
+-		1.3.3 Think hard
+-		1.3.4 Finish the test
+-	1.4 Submit
+-		1.4.1 Make sure all information is correct
+-		1.4.2 Click next
+-		1.4.3 Submit application
+-
+- 2. In-Person Interview
+- 	2.1 Make it to the next stage
+-		2.1.1 You will receive a response on your email
+-	2.2 Schedule an appointment
+-		2.2.1 Click the link in the email
+-		2.2.2 Choose a preferred time
+-		2.2.3 Schedule the appointment
+-	2.3 Go to the appointment
+-		2.3.1 Get yourself downtown
+-		2.3.2 Go into Turing
+-		2.3.3 Wait for your interviewer to show up
+-	2.4 Complete the in-person interview
+-		2.4.1 Think hard
+-		2.4.2 Finish the quiz
+-		2.4.3 Answer questions about your life and interests
+-		2.4.4 Say goodbye to interviewer
+-	2.5 Get accepted
+-		2.5.1 You will receive a response within 24 hours
+-		2.5.2 Celebrate
+-
+- 3. Module 0
+-	3.1 Prepare
+-		3.1.1 Download needed software
+-		3.1.2 Read recommended books
+-	3.2 Start Mod 0
+-		3.2.1 Be on time
+-		3.2.2 Be engaged
+-	3.3 Finish Mod 0
+-		3.3.1 Submit all assignments
+-		3.3.1 Complete Mod 0 Technical Assessment
+-	3.4 Final decision
+-		3.4.1 You will be graded
+-		3.4.2 You will get a Turing-Ready grade
