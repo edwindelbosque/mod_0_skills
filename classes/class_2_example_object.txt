@@ -1,0 +1,27 @@
+
+Class
+
+VendingMachine12
+
+
+Attributes
+
+200
+150
+True
+False
+True
+["hershey", "danone", "nestle"]
+False
+2019
+2014
+ProfitGoalUSD 4000
+8
+10
+
+Methods
+
+80
+50
+75
+5
