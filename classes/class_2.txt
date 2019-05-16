@@ -1,0 +1,27 @@
+
+Class
+
+VendingMachine
+
+
+Attributes
+
+TotalCapacity (integer)
+CurrentCapacity (integer)
+SmartphonePay (Boolean)
+Drinks (boolean)
+Snacks (boolean)
+Brands (array)
+Coins (boolean)
+CurrentYear (integer)
+YearBuilt (integer)
+ProfitGoalUSD (integer)
+NumberOfVerticalTrays (integer)
+NumberOfHorizontalTrays (integer)
+
+Methods
+
+TotalNumberofTrays (NumberOfHorizontalTrays x NumberOfVerticalTrays) (It tells you the total number of trays for the snack placements)
+RemainingCapacityOfItems (TotalCapacity - CurrentCapacity) (It tells you the remaining number of items that can fit in the vending machine)
+PercentageOfCurrentCapacity (CurrentCapacity / TotalCapacity) (It gives you the percentage of fullness of the vending machine)
+AgeOfVendingMachine (CurrentYear - YearBuilt) (It tells you how old the vending machine is)
